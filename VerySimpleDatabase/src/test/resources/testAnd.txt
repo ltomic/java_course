@@ -1,0 +1,1 @@
+firstName>"A" and lastName LIKE "B*ć"

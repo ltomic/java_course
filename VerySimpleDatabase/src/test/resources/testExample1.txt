@@ -1,0 +1,1 @@
+jmbag = "0000000003" AND lastName LIKE "B*"

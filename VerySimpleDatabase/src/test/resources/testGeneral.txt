@@ -1,0 +1,4 @@
+jmbag="0000000003"
+lastName = "Blažić"
+firstName>"A" and lastName LIKE "B*ć"
+firstName>"A" and firstName<"C" and lastName LIKE "B*ć" and jmbag>"0000000002"

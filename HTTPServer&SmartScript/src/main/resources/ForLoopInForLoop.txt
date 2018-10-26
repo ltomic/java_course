@@ -1,0 +1,7 @@
+{$ FOR i 2 3 $}
+Text
+{$ FOR j 5 6 $}
+Text1 {$= "Ninja" $}
+{$ END $}
+Text2
+{$ END $}
