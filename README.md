@@ -1,4 +1,4 @@
-# java_course
+# Java course
 homework mini-projects from Basics of Java programming language course
 
 Each folder contains a java maven project created as part of a weekly homework during the university course.
