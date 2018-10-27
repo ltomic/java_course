@@ -1,8 +1,10 @@
+
 # Calculator & Barchart
 
 This project contains :
-  Simple calculator - Displays a simple calculator with mathematical operations and a stack.
-                      Description & main program in file : Calculator.java
-  Barchart - Displays a simple barchart with provided data
-             Description : Barchart.java & BarchartDemo.java; Main program : BarchartDemo.java
-  
+<ul>
+  <li>Calculator - Displays a simple calculator with mathematical operations and a stack.<br />
+      <ul><li>Description & main program in file : Calculator.java</li></ul></li>
+  <li>Barchart - Displays a simple barchart with provided data<br />
+	  <ul><li>Description : Barchart.java & BarchartDemo.java</li><li>Main program : BarchartDemo.java</li></ul></li>
+  </ul>
